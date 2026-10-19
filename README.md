@@ -15,23 +15,23 @@ Welcome to my GitHub! I'm a computer science student who enjoys turning ideas in
 
 Languages
 
-JavaScript
-TypeScript
-Python
-SQL
-C#
-HTML & CSS
+-JavaScript
+-TypeScript
+-Python
+-SQL
+-C#
+-HTML & CSS
 
 Frameworks & Technologies
 
-React
-AWS
+-React
+-AWS
 
 Tools
 
-Git & GitHub
-Power BI
-Microsoft Excel
+-Git & GitHub
+-Power BI
+-Microsoft Excel
 
 🤝 Let's Connect!
 💼 LinkedIn: www.linkedin.com/in/nefiserrano 
